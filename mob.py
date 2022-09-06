@@ -1,0 +1,2 @@
+def adblaunchapp():
+        print("adbLaunch")
